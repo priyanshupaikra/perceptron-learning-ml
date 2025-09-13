@@ -41,7 +41,7 @@ It is recommended to install Anaconda platform as it comes with all essential li
 ## Results
 
 The Multi-Layer Perceptron significantly outperforms the Single-Layer Perceptron on the Iris dataset:
-- Single-Layer Perceptron: ~23% accuracy
+- Single-Layer Perceptron: ~23% accuracy - may change; in my case it was always give different 
 - Multi-Layer Perceptron: ~90%+ accuracy
 
 This demonstrates the power of deep learning architectures to model complex, non-linear relationships.
